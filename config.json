@@ -1,0 +1,24 @@
+{
+    "config": [
+        {
+            "API_KEY": "Your google search engine api key",
+            "SEARCH_ENGINE_ID": "Your google search engine id",
+            "SEARCH_URL": "https://www.googleapis.com/customsearch/v1",
+            "OLLAMA_API_URL": "Your ollama api endpoint",
+            "OLLAMA_MODEL": "Your chosen model",
+            "EXCLUDED_SITES": "youtube.com, youtu.be, reddit.com, quora.com, amazon.com, foxnews.com, barnesandnoble.com, usatoday.com",
+            "AMOUNT_LINKS": "3"
+        },
+        {
+            "API_KEY": "Your google search engine api key",
+            "SEARCH_ENGINE_ID": "Your google search engine id",
+            "SEARCH_URL": "https://www.googleapis.com/customsearch/v1",
+            "OLLAMA_API_URL": "Your ollama api endpoint",
+            "OLLAMA_MODEL": "Your chosen model",
+            "EXCLUDED_SITES": "youtube.com, youtu.be, wikipedia.org",
+            "AMOUNT_LINKS": "1"
+        }
+    ],
+    "config_chosen": "",
+    "prompt": ""
+}
